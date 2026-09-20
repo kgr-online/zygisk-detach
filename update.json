@@ -1,6 +1,6 @@
 {
 	"version": "v1.23.2",
 	"versionCode": 34,
-	"zipUrl": "https://github.com/kgr-online/zygisk-detach/releases/latest/download/zygisk-detach-v1.23.2.zip",
+	"zipUrl": "https://github.com/kgr-online/zygisk-detach/releases/latest/download/zygisk_detach_module.zip",
 	"changelog": "https://raw.githubusercontent.com/kgr-online/zygisk-detach/master/README.md"
 }
