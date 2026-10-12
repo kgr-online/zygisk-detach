@@ -9,7 +9,7 @@ Hooks libbinder with zygisk
 * Enable zygisk in Magisk **or flash a Zygisk module if you are on KernelSU**
 * Flash zygisk-detach module
 * Reboot
-* Install ksuwebui or key2toolbox and open the Zygisk-Detach card
+* Install ksuwebui (https://github.com/5ec1cff/KsuWebUIStandalone) or key2toolbox (https://github.com/kgr-online/Key2Toolbox) and open the Zygisk-Detach card
 * Select apps you wish to detach, and press apply. Changes are applied immediately, no need to reboot.
 
 ### Note
