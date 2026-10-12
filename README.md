@@ -9,10 +9,8 @@ Hooks libbinder with zygisk
 * Enable zygisk in Magisk **or flash a Zygisk module if you are on KernelSU**
 * Flash zygisk-detach module
 * Reboot
-* Run the cli: `detach` (or `su -c /data/adb/modules/zygisk-detach/detach` if you are not using termux)  
-	or use [zygisk-detach-app](https://github.com/j-hc/zygisk-detach-app) if you dont wanna use the terminal  
-	or use the WebUI if you are on KernelSU
-* Select apps you wish to detach. Changes are applied immediately, no need to reboot.
+* Install ksuwebui or key2toolbox and open the Zygisk-Detach card
+* Select apps you wish to detach, and press apply. Changes are applied immediately, no need to reboot.
 
 ### Note
 Another way to automatically detach any apps upon flashing the module is to put a `detach.txt` with the package names inside the module zip and the apps will be detached without using the cli once module is flashed.  
